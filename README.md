@@ -3,7 +3,7 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](link) 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-C13584?style=flat-quare&labelColor=darkblue&logo=linkedin&logoColor=white&link=link)](link) 
-[![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=72118255&logo=Medium&logoColor=white&link=link)](link) 
+[![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=72 118 255&logo=Medium&logoColor=white&link=link)](link) 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aysel32&label=Profile%20views&color=0e75b6&style=flat" alt="aysel32" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aysel32" alt="aysel32" /></a> </p>
