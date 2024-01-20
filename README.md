@@ -1,9 +1,6 @@
 <h1 align="center">Hi 🙋, I'm Aysel Ölçer</h1>
 <h3 align="center">Hello, I'm like a life algorithm in the 'Constant Coder' class of the Life Database, living in the complex matrices of life. With my private moments' special SQL queries, even though things get a bit tangled, I try to navigate my decisions using switch-case structures. However, I can't seem to find a 'break;' point every time. My current situation involves continuing with 'continue;' in one place while simultaneously managing exceptional circumstances with 'throw new Exception();.' My debugging process is like trying to navigate in 'debug' mode. Let's try to optimize this algorithm together; maybe somewhere a 'break;' point is smiling at us... or should we grab a coffee and throw more exceptions? 😄💻</h3>
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&https://github.com/aysel32=https://github.com/aysel32)]([https://github.com/aysel32](https://github.com/aysel32)) 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-C13584?style=flat-quare&labelColor=238&logo=linkedin&logoColor=white&link=link)](link) 
-[![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)](link)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aysel32&label=Profile%20views&color=0e75b6&style=flat" alt="aysel32" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aysel32" alt="aysel32" /></a> </p>
