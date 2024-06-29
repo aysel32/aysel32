@@ -8,6 +8,7 @@
 - 🔭 Currently, I am working on C# **MVC**
 
 - 📫 How to reach me **ayselolcer32@gmail.com**
+- Kaggle => **https://www.kaggle.com/ayseller**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
