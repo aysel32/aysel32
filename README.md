@@ -1,5 +1,5 @@
 <div align="center"><img src="https://github.com/aysel32/ays/blob/main/hello.png" width="150" height="180"></div>
-<h1 align="center">Hi 🙋, I'm Aysel Ölçer</h1>
+<h1 align="center">Hi 🙋🏼‍♀, I'm Aysel Ölçer</h1>
 <h3 align="center">Hello, I'm like a life algorithm in the 'Constant Coder' class of the Life Database, living in the complex matrices of life. With my private moments' special SQL queries, even though things get a bit tangled, I try to navigate my decisions using switch-case structures. However, I can't seem to find a 'break;' point every time. My current situation involves continuing with 'continue;' in one place while simultaneously managing exceptional circumstances with 'throw new Exception();.' My debugging process is like trying to navigate in 'debug' mode. Let's try to optimize this algorithm together; maybe somewhere a 'break;' point is smiling at us... or should we grab a coffee and throw more exceptions? 😄💻</h3>
 
 <img src="https://github.com/aysel32/ays/blob/main/d%C3%BCnya.jpg" width="auto">
