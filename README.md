@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aysel32" alt="aysel32" /></a> </p>
 
-- 🔭 Currently, I am working on C# **MVC**
+- 🔭 Currently, I am working on C# **MVC** Yapay Zeka- AI
 
 - 📫 How to reach me **ayselolcer32@gmail.com**
 
